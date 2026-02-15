@@ -1,0 +1,21 @@
+# Compilação Java
+*.class
+*.log
+
+# Pastas de build
+/bin/
+/target/
+/out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IDEs extras
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
